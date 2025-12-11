@@ -23,14 +23,14 @@ export function Footer() {
               <Phone className="w-4 h-4" />
             </a>
             <a
-              href="mailto:asim56998@gmail.com"
+              href="mailto:asimkhanal2024@gmail.com"
               className="w-10 h-10 rounded-full bg-background/10 flex items-center justify-center hover:bg-background/20 transition-colors"
               aria-label="Email"
             >
               <Mail className="w-4 h-4" />
             </a>
             <a
-              href="https://linkedin.com/in/asim-khanal-b5a299345"
+              href="https://linkedin.com/in/asim-khanal-b5a299345/"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full bg-background/10 flex items-center justify-center hover:bg-background/20 transition-colors"
